@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**prashantnyk11/prashantnyk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Prashant Kumar Nayak
+ 
+DevOps Engineer & Full Stack Developer based in Delhi, India.  
+B.Tech in CSE (Cyber Security) - Techno India University
+ 
+---
+ 
+**Tech:** Python • JavaScript • React • Node.js • MongoDB • Docker • GitHub Actions • Jenkins • Linux
+ 
+**Focus Areas:** CI/CD Pipelines • Container Orchestration • Cyber Security • MERN Stack
+ 
+---
+ 
+📫 [prashantnyk11@gmail.com](mailto:prashantnyk11@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/prashantnyk11/)
